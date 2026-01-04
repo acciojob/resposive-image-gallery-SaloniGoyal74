@@ -3,7 +3,7 @@
   flex-wrap: wrap;
 }
 
-.images {
+img {
   max-width: 25vw;
   margin: 10px;
   border: 3px solid #000;
