@@ -1,13 +1,12 @@
-.cards{
-	display:flex; 
-	align-items:flex-end;
-	flex-wrap: wrap;
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
 }
 
-img{
-	width:25vw;
-	margin:10px;
-	border:3px solid #000;
-	box-shadow:3px 3px 8px 0px rgba(0, 0, 0, 0.3);
-	max-width:2.5vw;
+img {
+  max-width: 25vw;
+  margin: 10px;
+  border: 3px solid #000;
+  box-shadow: 3px 3px 8px 0 rgba(0,0,0,0.3);
 }
