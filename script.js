@@ -1,1 +1,1 @@
-//your JS code here. If required.
+have.css("max-width", "25vw")
